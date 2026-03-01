@@ -1,70 +1,127 @@
-🚀 Python Mini Projects
+# 🐍 Python Mini Projects Collection 🚀
 
-A curated collection of beginner-friendly Python projects designed to strengthen your programming fundamentals through hands-on practice.
-Each project is small, clear, and practical — perfect for understanding real Python logic.
+A curated collection of 20 Python projects ranging from beginner to intermediate level, covering core programming, games, GUI applications, and API integration.
 
-📁 Project List
-#	Project Name	Description	Folder
-1	Madlibs Game	A fun word-based story generator program	/01-madlibs-game
+This repository demonstrates:
 
-More projects will be added regularly as I continue learning.
-Stay tuned! ✨
+- Core Python fundamentals
+- Object-Oriented Programming
+- GUI development (PyQt5)
+- API integration
+- Exception handling
+- Real-world application logic
 
-📝 How to Use
-🔹 1. Clone this repository
+---
+
+## 📚 Project List
+
+### 🔰 Beginner Logic Projects
+1. Madlibs Game  
+2. Calculator Program  
+3. Weight Converter  
+4. Temperature Converter  
+5. Compound Interest Calculator  
+6. Countdown Timer  
+7. Shopping Cart Program  
+
+---
+
+### 🎮 Game Projects
+8. Quiz Game  
+9. Concession Stand Program  
+10. Number Guessing Game  
+11. Rock Paper Scissors  
+12. ASCII Dice Roller  
+13. Banking System  
+14. Slot Machine  
+15. Substitution Encryption Program  
+16. Hangman Game  
+
+---
+
+### 🖥 GUI Applications (PyQt5)
+17. Alarm Clock with Sound  
+18. Digital Clock (Styled GUI)  
+19. Stopwatch (Millisecond Precision)  
+
+---
+
+### 🌍 Real-World Application
+20. Advanced Weather API Application  
+   - Live weather data  
+   - API integration  
+   - Secure API key handling  
+   - Advanced error handling  
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- PyQt5
+- Requests
+- python-dotenv
+- REST APIs
+- JSON Handling
+- Exception Handling
+- OOP Concepts
+
+---
+
+## 🎯 Skills Demonstrated
+
+- Loops & Conditionals
+- Data Structures (Lists, Tuples, Dictionaries, Sets)
+- Functions & Modular Design
+- File Handling
+- GUI Development
+- API Consumption
+- Real-Time Applications
+- Event-Driven Programming
+
+---
+
+## 📦 How to Run Projects
+
+1. Clone the repository:
+
+```
 git clone https://github.com/Pranav2775/python-mini-projects.git
+```
 
-🔹 2. Navigate into this project folder
-cd python-mini-projects
+2. Navigate into a project folder:
 
-🔹 3. Go to any individual project
+```
+cd project-folder-name
+```
 
-Example:
+3. Install dependencies (if required):
 
-cd 01-madlibs-game
+```
+pip install -r requirements.txt
+```
 
-🔹 4. Run the Python file
-python madlibs.py
+4. Run:
 
-📦 Project Structure
-python-mini-projects/
-│
-├── 01-madlibs-game/
-│   ├── madlibs.py
-│   └── README.md
-│
-└── README.md   ← (You are here)
+```
+python main.py
+```
 
-👨‍💻 Technologies Used
+---
 
-Python 3.x
+## 🚀 Author
 
-VS Code
+Built as part of a structured Python learning journey focusing on building practical skills and portfolio-ready projects.
 
-Git & GitHub
+---
 
-🌟 Upcoming Projects
+## 📈 Future Improvements
 
-These will be added soon:
+- Add screenshots for GUI projects  
+- Add unit tests  
+- Add Docker support  
+- Add CI/CD pipeline  
 
-🔢 Calculator App
+---
 
-🎯 Number Guessing Game
-
-📚 To-Do List (File Handling)
-
-🐍 Snake Game (Pygame)
-
-📊 Expense Tracker
-
-❤️ Support & Contribution
-
-If you like this project, feel free to star ⭐ the repository!
-Contributions, suggestions, or improvements are always welcome.
-
-📧 Contact
-
-Pranav
-GitHub: https://github.com/Pranav2775
-
-(You can add LinkedIn later)
+⭐ If you found this repository helpful, feel free to star it!
